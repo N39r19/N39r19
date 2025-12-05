@@ -2,7 +2,6 @@
 
 💻 **Flutter Developer with 4+ years of experience**  
 
----
 ### 🛠️ Tech Stack:
 - **Mobile**: Flutter, Dart  
 - **Tools**: Firebase, Riverpod, Hooks
@@ -11,7 +10,3 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N39r19&layout=compact&theme=radical)  
