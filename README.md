@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack:
 - **Mobile**: Flutter, Dart  
 - **Tools**: Firebase, Riverpod, Hooks
-- **Telegram**: [@Altereyo](https://t.me/n39r19)  
+- **Telegram**: [@n39r19](https://t.me/n39r19)  
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
