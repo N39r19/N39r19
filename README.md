@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&color=08BE00&background=000000&multiline=true&repeat=false&width=435&height=60&lines=%24+cd+%2Fgrigoriy;%24+make+flutter-apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&color=08BE00&background=000000&multiline=true&repeat=false&width=435&height=60&lines=%24+cd+.%2Fgrigoriy;%24+make+flutter-apps)](https://git.io/typing-svg)
 
 💻 **Flutter Developer with 5 years of experience**  
 
